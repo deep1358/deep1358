@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Instagram ](https://www.instagram.com/_.deep7._/) 
 - 😄 Pronouns: He/His
 
-[![GitHub iampawan](https://img.shields.io/github/followers/deep1358?label=follow&style=social)](https://github.com/deep1358)
+[![GitHub deep1358](https://img.shields.io/github/followers/deep1358?label=follow&style=social)](https://github.com/deep1358)
 
 
 
