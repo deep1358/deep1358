@@ -1,7 +1,6 @@
 ## Hello I am  Deep 👋
 
 
-- 🔭 I’m currently working on ShareStories.
 - 👯 I’m looking to collaborate on [Github](https://github.com/deep1358).
 - 🌱 I’m currently learning more about Web Development.
 - 💬 Ask me about Web Development or any tech related stuff.
