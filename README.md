@@ -2,6 +2,7 @@
 
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/deep1358).
+- 🔭 I'm currently working on Ecommerce website.
 - 🌱 I’m currently learning more about Web Development.
 - 💬 Ask me about Web Development or any tech related stuff.
 - 📫 How to reach me: [Instagram ](https://www.instagram.com/_.deep7._/) 
