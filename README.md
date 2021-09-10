@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep1358" alt="deep1358" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce website**
+<!-- - 🔭 I’m currently working on **Ecommerce website** -->
 
 - 🌱 I’m currently learning **Web development and related stuffs**
 
