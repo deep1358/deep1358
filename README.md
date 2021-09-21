@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Shah</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep1358" alt="deep1358" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep1358&theme=onedark" alt="deep1358" /></a> </p>
 <!-- - 🔭 I’m currently working on **Ecommerce website** -->
 
 - 🌱 I’m currently learning **Web development and related stuffs**
