@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://deepshah.netlify.app/](https://deepshah.in/)
+- 👨‍💻 All of my projects are available at [https://deepshah.in/](https://deepshah.in/)
 
 - 💬 Ask me about **Web development stuff**
 
