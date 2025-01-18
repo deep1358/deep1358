@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-shah-b0b0171b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-shah-b0b0171b8/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11888494/deep-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11888494/deep-shah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamdeep7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/iamdeep7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iamdeep7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/iamdeep7" height="30" width="40" /></a><a href="https://medium.com/@deepshah1358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@deepshah1358" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
